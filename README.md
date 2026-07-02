@@ -9,7 +9,7 @@ I build scalable, production-ready web applications with modern technologies.
 </p>
 
 <p align="center">
-<a href="https://ismailkt.vercel.app">Portfolio</a> •
+<a href="https://ismail-kt.vercel.app">Portfolio</a> •
 <a href="https://github.com/Ismailkt313">GitHub</a> •
 <a href="https://linkedin.com/in/ismmail-kt-7117a3321">LinkedIn</a>
 </p>
@@ -87,7 +87,7 @@ Modern portfolio built using
 - TypeScript
 - SEO Optimization
 
-🔗 https://ismailkt.vercel.app
+🔗 https://ismail-kt.vercel.app
 
 ---
 
@@ -114,7 +114,7 @@ Modern portfolio built using
 <p align="left">
 <a href="https://linkedin.com/in/ismmail-kt-7117a3321">LinkedIn</a><br/>
 <a href="https://github.com/Ismailkt313">GitHub</a><br/>
-<a href="https://ismailkt.vercel.app">Portfolio</a>
+<a href="https://ismail-kt.vercel.app">Portfolio</a>
 </p>
 
 ---
