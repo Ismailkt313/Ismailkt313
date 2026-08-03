@@ -125,7 +125,7 @@ A performance-focused developer portfolio showcasing my projects and engineering
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailkt313&layout=compact&theme=tokyonight"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailkt313&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Ismailkt313&show_icons=true&theme=tokyonight&cache_seconds=0)"/>
 </p>
 
 ---
