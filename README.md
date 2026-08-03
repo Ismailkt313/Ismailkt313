@@ -121,7 +121,7 @@ A performance-focused developer portfolio showcasing my projects and engineering
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ismailkt313&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismailkt313&theme=tokyonight"/>
+<img height="170" src="[https://github-readme-streak-stats.herokuapp.com/?user=Ismailkt313&theme=tokyonight](https://streak-stats.demolab.com?user=Ismailkt313&theme=tokyonight&cache_seconds=0)"/>
 </p>
 
 <p align="center">
