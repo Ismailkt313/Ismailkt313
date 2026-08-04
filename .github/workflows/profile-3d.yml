@@ -28,7 +28,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
