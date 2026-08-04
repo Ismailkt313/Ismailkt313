@@ -162,6 +162,18 @@ Full Stack / Frontend roles, and open-source collaboration
 
 <br/>
 
+## 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
+
+<sub>Isometric view of your contribution history — height and color track commit volume per day. Renders after the GitHub Action below runs once; see the setup guide for other color variants.</sub>
+
+</div>
+
+<br/>
+
 ## Problem Solving
 
 DSA and algorithmic thinking are a constant background thread alongside project work — not as a separate track, but as the reasoning that shapes how a feature gets architected in the first place: what the access pattern is, where the bottleneck will actually be, and what the simplest correct data structure is before reaching for a clever one.
