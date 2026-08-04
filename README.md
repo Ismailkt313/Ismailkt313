@@ -149,14 +149,11 @@ Full Stack / Frontend roles, and open-source collaboration
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ismailkt313&theme=darkhub&no-frame=true&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" width="90%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake" width="100%" />
-<img src="https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake" width="100%" />
-
-<sub>The snake animation renders after the GitHub Action below runs once — see the setup guide.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -166,9 +163,9 @@ Full Stack / Frontend roles, and open-source collaboration
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar — isometric night view" width="100%" />
 
-<sub>Isometric view of your contribution history — height and color track commit volume per day. Renders after the GitHub Action below runs once; see the setup guide for other color variants.</sub>
+<sub>Isometric view of contribution history — height and color track commit volume per day.</sub>
 
 </div>
 

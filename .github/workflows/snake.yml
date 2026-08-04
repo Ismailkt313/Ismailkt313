@@ -1,11 +1,11 @@
-# Place this file at: .github/workflows/snake.yml (in the Ismailkt313/Ismailkt313 repo)
+# Generates the animated "snake eats contribution graph" SVG and publishes it
+# to the "output" branch so raw.githubusercontent.com can serve it.
 #
-# Generates the animated "snake eats contribution graph" SVG referenced in the
-# GitHub Analytics section of README.md, and publishes it to a branch named
-# "output" so raw.githubusercontent.com can serve it.
+# README references:
+#   https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake.svg
+#   https://raw.githubusercontent.com/Ismailkt313/Ismailkt313/output/github-contribution-grid-snake-dark.svg
 #
-# Source: https://github.com/Platane/snk (actively maintained, official GitHub
-# Marketplace action: "Generate Snake Game From GitHub Contribution Grid")
+# Source: https://github.com/Platane/snk
 
 name: Generate Snake Animation
 
@@ -23,9 +23,10 @@ permissions:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -33,7 +34,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake output to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
