@@ -139,8 +139,6 @@ Full Stack / Frontend roles, and open-source collaboration
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ismailkt313&show_icons=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" height="165" />
