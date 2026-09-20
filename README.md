@@ -141,13 +141,13 @@ Full Stack / Frontend roles, and open-source collaboration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ismailkt313&show_icons=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Ismailkt313&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=Ismailkt313&hide_border=true&background=0D1117&stroke=30363D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B949E" alt="GitHub streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=Ismailkt313&hide_border=true&background=0D1117&stroke=30363D&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8B949E&timezone=Asia/Kolkata" alt="GitHub streak" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailkt313&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ismailkt313&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top languages" height="165" />
 
 <br/><br/>
 
