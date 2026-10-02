@@ -165,17 +165,7 @@ Full Stack / Frontend roles, and open-source collaboration
 
 <br/>
 
-## 3D Contribution Calendar
 
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar — isometric night view" width="100%" />
-
-<sub>Isometric view of contribution history — height and color track commit volume per day.</sub>
-
-</div>
-
-<br/>
 
 ## Problem Solving
 
