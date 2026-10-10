@@ -34,11 +34,6 @@ Most of my work sits at the intersection of frontend product thinking and backen
 
 I like problems that force a decision: how a wallet ledger should reconcile, how a multi-role auth system should fail safely, how a modular monolith should be split before it needs to be. Outside of shipped projects, I spend time on DSA and system design, and I'm currently extending that into AI/LLM integration — RAG pipelines, MCP, and agentic tooling — as a new layer on top of the same engineering fundamentals.
 
-<br/>
-
-## Current Focus
-
-
 
 <br/>
 
